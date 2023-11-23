@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="play_button">Play</string>
+    <string name="title_sudoku">Sudoku Game</string>
+</resources>
