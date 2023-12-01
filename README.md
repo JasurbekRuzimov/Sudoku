@@ -8,7 +8,9 @@ Sudoku Game - `Play Page`
 </div>
 
 <br/>
+
 Sudoku Game - `Dashboard`
+
 <div style="width=100%; flex-direction: row; display: flex; justify-content: space-around; align-items: center;">
 <img src="https://github.com/JasurbekRuzimov/Sudoku/assets/82991168/9a8440cd-15ca-4da3-b24b-459cbdc78366" width="150" height="300" />
 </div>
